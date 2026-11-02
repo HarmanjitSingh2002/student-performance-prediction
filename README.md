@@ -55,3 +55,17 @@ Model metrics and charts are generated when the notebook is executed. Add your v
 
 ## Limitation
 This is a learning portfolio project based on synthetic data. It should not be used to make decisions about real students.
+
+## Project Visualizations
+
+### Final Score Distribution
+![Final Score Distribution](final_score_distribution.png)
+
+### Study Hours vs Final Score
+![Study Hours vs Score](study_hours_vs_score.png)
+
+### Attendance vs Final Score
+![Attendance vs Score](attendance_vs_score.png)
+
+### Random Forest Feature Importance
+![Feature Importance](feature_importance.png)
