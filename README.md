@@ -21,6 +21,20 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook.
 5. Compare MAE, RMSE, and R² on a held-out test set.
 6. Review feature importance and generate an example prediction.
 
+## Model Results
+
+Two machine learning models were trained and evaluated: Linear Regression and Random Forest.
+
+| Model | MAE | RMSE | R² |
+|---|---:|---:|---:|
+| Linear Regression | 2.343 | 2.889 | 0.950 |
+| Random Forest | 3.018 | 3.749 | 0.915 |
+
+### Best Performing Model
+
+Linear Regression achieved the best performance, with an R² score of 0.950, MAE of 2.343, and RMSE of 2.889 on the test dataset.
+
+The results indicate that Linear Regression performed better than Random Forest for this synthetic dataset.
 ## Run Locally
 Install packages:
 
